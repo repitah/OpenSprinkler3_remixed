@@ -1,0 +1,45 @@
+Partlist
+
+Exported from mainboard.brd at 2018/09/04 5:32 PM
+
+EAGLE Version 9.1.0 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package      Library             Position (mil)        Orientation
+
+C2       0.1u           C050-045X075 resistor            (2550 1760)           R180
+C3       0.1u           C050-045X075 resistor            (1550 2400)           R180
+C5       0.1u           C050-045X075 resistor            (700 2600)            R180
+C6       0.1u           C050-045X075 resistor            (700 2850)            R180
+D1       1N4004         DO41-10      diode               (200 2400)            R90
+ESP      ESP-12N        ESP12_WES    JeeParts            (2200 2900)           R0
+IC1      7805TV         TO220V       linear              (300 2150)            R0
+IC2      LM1117DTX-3.3  TO252        lm1117              (1100 2850)           R90
+J5       ProgramMode    1X02         SparkFun-Connectors (2100 2350)           R180
+JP1                     1X01         pinhead             (1455 3075)           R0
+JP2                     1X01         pinhead             (1610 2710)           R0
+JP3                     1X01         pinhead             (1610 2585)           R0
+JP4                     1X01         pinhead             (2750 2450)           R0
+JP5                     1X01         pinhead             (2550 2100)           R0
+JP6                     1X01         pinhead             (2450 2050)           R0
+JP7                     1X01         pinhead             (2960 1710)           R0
+OUTBOARD                W237-102     con-wago-500        (300 1800)            R0
+PCA9555  PCA9555        TSSOP24      SparkFunNew         (2900 1900)           R90
+POWER                   W237-102     con-wago-500        (300 2900)            R0
+R1       10k            0204/7       resistor            (1555 2995)           R215
+R2       10k            0204/5       resistor            (1600 2900)           R180
+R3       10k            0204/7       resistor            (1755 2475)           R270
+R6       10k            0204/7       resistor            (1600 2800)           R0
+R7       1K             0204/7       resistor            (2505 2365)           R180
+R8       1K             0204/7       resistor            (2050 2450)           R0
+R9       1K             0204/7       resistor            (3385 2800)           R270
+R10      1K             0204/7       resistor            (3545 2800)           R270
+RN1                     DIL16        resistor-dil        (3400 2050)           R90
+SJ1                     JP2          jumper              (750 2200)            R0
+SJ2                     JP2          jumper              (750 2000)            R0
+SJ3                     JP2          jumper              (750 1800)            R0
+SV1      Outpouts       22-23-2081   con-molex           (3750 2050)           R90
+X1       I2C            22-23-2051   con-molex           (3750 2850)           R270
+X2       UART           22-23-2051   con-molex           (3150 2850)           R270
+X5       Buttons        22-23-2041   con-molex           (2250 2000)           R270
